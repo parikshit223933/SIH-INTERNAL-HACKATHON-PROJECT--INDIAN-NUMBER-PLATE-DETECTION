@@ -6,4 +6,4 @@ License plate detection using Tensorflow
 * It converts License plate number from the images to string.
 # How can I train my own model?
 * <br/>
-(This documentation is in progress. Stay connected to know more about this.)
+(This documentation is in progress. Stay in touch to know more.)
