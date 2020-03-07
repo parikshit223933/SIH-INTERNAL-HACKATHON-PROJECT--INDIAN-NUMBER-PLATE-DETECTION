@@ -8,4 +8,4 @@ License plate detection using Tensorflow
 * <br/>
 (This documentation is in progress. Stay in touch to know more.)
 # IMAGES
-* <img src="https://user-images.githubusercontent.com/47470038/73783575-f3060000-47b9-11ea-9e14-379af59b0048.png"/>
+* <img src="https://raw.githubusercontent.com/parikshit223933/SIH-INTERNAL-HACKATHON-PROJECT--INDIAN-NUMBER-PLATE-DETECTION/master/Proof%20of%20detection%20by%20image/73783575-f3060000-47b9-11ea-9e14-379af59b0048.png"/>
