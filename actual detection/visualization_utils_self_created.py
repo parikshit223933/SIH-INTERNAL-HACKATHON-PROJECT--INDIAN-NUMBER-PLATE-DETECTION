@@ -418,7 +418,7 @@ def draw_bounding_boxes_on_image_tensors(images,
     max_boxes_to_draw: Maximum number of boxes to draw on an image. Default 20.
     min_score_thresh: Minimum score threshold for visualization. Default 0.2.
     use_normalized_coordinates: Whether to assume boxes and kepoints are in
-      normalized coordinates (as opposed to absolute coordiantes).
+      normalized coordinates (as opposed to absolute coordinates).
       Default is True.
   Returns:
     4D image tensor of type uint8, with boxes drawn on top.
