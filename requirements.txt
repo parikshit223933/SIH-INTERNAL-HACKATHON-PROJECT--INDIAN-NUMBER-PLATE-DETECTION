@@ -1,0 +1,3 @@
+labelImg
+tensorflow
+tf-models-official
