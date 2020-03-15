@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-python@master
+        with:
+            python-version: 3.7  # tensorflow still does not install on Python 3.8
       - run: pip install black codespell flake8 isort pytest
       - run: black --check . || true
       # - run: black --diff . || true
