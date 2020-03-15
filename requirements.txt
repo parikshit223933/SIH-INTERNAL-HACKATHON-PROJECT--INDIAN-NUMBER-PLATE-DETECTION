@@ -1,0 +1,4 @@
+labelImg
+tensorflow
+tf-models-official
+opencv-python
